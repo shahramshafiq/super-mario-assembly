@@ -1,5 +1,5 @@
 ===================================================================================
-                        COAL SUPER MARIO BROS - README
+                            COAL SUPER MARIO BROS - README
 ===================================================================================
 
 A classic-style 2D platformer developed in x86 assembly (Irvine32), inspired by
